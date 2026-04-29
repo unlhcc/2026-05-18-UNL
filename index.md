@@ -204,6 +204,12 @@ This block displays the date and links to Google Calendar.
 </p>
 {% endif %}
 
+<p id="cost">
+  <strong>Cost:</strong>
+  FREE
+</p>
+<center><form><button name="button" style="background-color: D71920; padding: 15px 32px" formaction="\https://marketplace.unl.edu/hcc/hcc-hpc-carpentry-workshop-may-2026.html">Registration now open!</button></form></center>
+
 {% comment %}
 SPECIAL REQUIREMENTS
 
