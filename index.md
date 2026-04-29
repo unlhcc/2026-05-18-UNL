@@ -169,6 +169,9 @@ address.
     What3Words location:
     <a href="https://what3words.com/{{page.what3words}}">///{{page.what3words}}</a>.
   {%endif %}
+  
+  Enter from the **southeast** entrance of the building. 
+  ![Photo showing southeast entrance location of Nebraska Hall](https://hcc.unl.edu/docs/images/events/guides/NH213_Entrance.png)
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
