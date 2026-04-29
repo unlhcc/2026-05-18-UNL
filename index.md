@@ -172,7 +172,9 @@ address.
   
   <p>Enter from the **southeast** entrance of the building. 
   <img src="https://hcc.unl.edu/docs/images/events/guides/NH213_Entrance.png"
-     alt="Photo showing southeast entrance location of Nebraska Hall">
+     alt="Photo showing southeast entrance location of Nebraska Hall"
+     style="max-width:800px; width:100%; height:auto;">
+
 </p>
 </p>
 {% elsif online == "true_public" %}
