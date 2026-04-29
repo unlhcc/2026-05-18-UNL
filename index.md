@@ -170,8 +170,10 @@ address.
     <a href="https://what3words.com/{{page.what3words}}">///{{page.what3words}}</a>.
   {%endif %}
   
-  Enter from the **southeast** entrance of the building. 
-  ![Photo showing southeast entrance location of Nebraska Hall](https://hcc.unl.edu/docs/images/events/guides/NH213_Entrance.png)
+  <p>Enter from the **southeast** entrance of the building. 
+  <img src="https://hcc.unl.edu/docs/images/events/guides/NH213_Entrance.png"
+     alt="Photo showing southeast entrance location of Nebraska Hall">
+</p>
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
